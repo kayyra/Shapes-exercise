@@ -1,7 +1,10 @@
-
+.container{
+    display: flex;
+    justify-content: center;
+}
 
 #myCanva{
-    display: flex;
+    
     width: 560px;
     height: 400px;
     border: 2px solid #000;
